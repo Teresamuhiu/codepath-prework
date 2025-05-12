@@ -17,7 +17,14 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/870902e0535e44e1bc5c6ff1af0ad603?sid=c1b34a41-29e3-4db6-b7c4-1464e02b197f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/870902e0535e44e1bc5c6ff1af0ad603">
+    </a>
+    <a href="https://www.loom.com/share/870902e0535e44e1bc5c6ff1af0ad603">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/870902e0535e44e1bc5c6ff1af0ad603-28503c1fdaa8b6ee-full-play.gif">
+    </a>
+  </div>
+ 
 
 ## App Brainstorming (Step 4)
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
